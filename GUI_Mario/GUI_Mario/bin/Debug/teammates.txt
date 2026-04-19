@@ -1,0 +1,73 @@
+Mario
+Luigi
+Peach
+Daisy
+Yoshi
+Birdo
+Wario
+Waluigi
+Donkey Kong
+Diddy Kong
+Bowser
+Bowser Jr.
+Red Yoshi
+Blue Yoshi
+Yellow Yoshi
+Light-Blue Yoshi
+Pink Yoshi
+Baby Mario
+Baby Peach
+Baby_DK
+Baby_Luigi
+Baby_Daisy
+Blue_Pianta
+Red_Pianta
+Yellow_Pianta
+Blue_Noki
+Red_Noki
+Green_Noki
+Monty_Mole
+Blooper
+Red_Toad
+Blue_Toad
+Yellow_Toad
+Green_Toad
+Purple_Toad
+Toadette
+Toadsworth
+Petey_Piranha
+Shy_Guy
+Blue_Shy_Guy
+Yellow_Shy_Guy
+Green_Shy_Guy
+Gray_Shy_Guy
+Wiggler
+Goomba
+Koopa
+Red_Koopa
+Paragoomba
+Paratroopa
+Green_Paratroopa
+Boo
+King_Boo
+Dixie_Kong
+Tiny_Kong
+Funky_Kong
+Kritter
+Blue_Kritter
+Red_Kritter
+Brown_Kritter
+King_K_Rool
+Hammer_Bro
+Fire_Bro
+Boomerang_Bro
+Magikoopa
+Red_Magikoopa
+Green_Magikoopa
+Yellow_Magikoopa
+Dry_Bones
+Green_Dry_Bones
+Dark_Bones
+Blue_Dry_Bones
+Mii_M
+Mii_F

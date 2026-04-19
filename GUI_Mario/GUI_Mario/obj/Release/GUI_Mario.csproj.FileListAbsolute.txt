@@ -1,0 +1,10 @@
+C:\Users\lflan\source\repos\GUI_Mario_Updated\GUI_Mario\GUI_Mario\bin\Release\GUI_Mario.exe.config
+C:\Users\lflan\source\repos\GUI_Mario_Updated\GUI_Mario\GUI_Mario\bin\Release\GUI_Mario.exe
+C:\Users\lflan\source\repos\GUI_Mario_Updated\GUI_Mario\GUI_Mario\bin\Release\GUI_Mario.pdb
+C:\Users\lflan\source\repos\GUI_Mario_Updated\GUI_Mario\GUI_Mario\obj\Release\GUI_Mario.csproj.AssemblyReference.cache
+C:\Users\lflan\source\repos\GUI_Mario_Updated\GUI_Mario\GUI_Mario\obj\Release\GUI_Mario.Form1.resources
+C:\Users\lflan\source\repos\GUI_Mario_Updated\GUI_Mario\GUI_Mario\obj\Release\GUI_Mario.Properties.Resources.resources
+C:\Users\lflan\source\repos\GUI_Mario_Updated\GUI_Mario\GUI_Mario\obj\Release\GUI_Mario.csproj.GenerateResource.cache
+C:\Users\lflan\source\repos\GUI_Mario_Updated\GUI_Mario\GUI_Mario\obj\Release\GUI_Mario.csproj.CoreCompileInputs.cache
+C:\Users\lflan\source\repos\GUI_Mario_Updated\GUI_Mario\GUI_Mario\obj\Release\GUI_Mario.exe
+C:\Users\lflan\source\repos\GUI_Mario_Updated\GUI_Mario\GUI_Mario\obj\Release\GUI_Mario.pdb

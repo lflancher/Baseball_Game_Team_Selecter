@@ -1,0 +1,12 @@
+Mario:S
+Luigi:A
+Peach:A
+Daisy:A
+Yoshi:A
+Birdo:A
+Wario:A
+Waluigi:A
+Donkey_Kong:S
+Diddy_Kong:B
+Bowser:S
+Bowser_Jr.:S
